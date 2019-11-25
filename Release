@@ -1,0 +1,17 @@
+Origin: Qiosz xMalr
+Label: Qiosz xMalr
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 
+
+Origin: Develop
+Label: Develop ios
+Suite: stable
+Version: 1.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description:  Remove Icloud With Data 
