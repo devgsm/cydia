@@ -1,0 +1,58 @@
+Package: com.julioverne.cracktoo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devlop <email@gmail.com>
+Depends: no
+Filename: /test1.deb
+Size: 122
+MD5sum: 1e1621b61280df46fefde1c779c01593
+SHA1: db1a6297521224972beaa864c0d367de5c31f14d
+SHA256: 9d6a0ed08402ae25dc3d375f9b0dfc2081024c6a8c597c10ab1ee5c5c6f0c8da
+Section: Applications
+Description: Remove Icloud 
+Author: Develop <<email@gmail.com>>
+Name: test1
+
+Package: com.julioverne.cracktoo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: <Developer>
+Depends: no
+Filename: /test2.deb
+Size: 122
+MD5sum: 1e1621b61280df46fefde1c779c01593
+SHA1: db1a6297521224972beaa864c0d367de5c31f14d
+SHA256: 9d6a0ed08402ae25dc3d375f9b0dfc2081024c6a8c597c10ab1ee5c5c6f0c8da
+Section: Tweaks
+Description: Remove Icloud 
+Author: <<email@gmail.com>>
+Name: test2
+
+Package: com.myfirstapp.apptest.test
+Version: 1.O
+Architecture: iphoneos-arm
+Maintainer: Devlop <email@gmail.com>
+Depends: no
+Filename: /testiap.deb
+Size: 40
+MD5sum: 03AA7F9A751B73E78626F3C828B5C992
+SHA1: 16A0BCBA21B1AF633AB0B68B40070E82BDF4A735
+SHA256: 677E1D067C2FEA84090F7E5EC25021EC27DEC1868455772FE32F16D7A20F7E7F
+Section: Aplications
+Description: Remove Icloud 
+Author: Develop <<email@gmail.com>>
+Name: testiap
+Package: com.myfirstapp.apptest.testtow
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devlop <email@gmail.com>
+Depends: no
+Filename: /testiaptow.deb
+Size: 40
+MD5sum: 20D5286FAEE5D9BF76CBAEA6B7C7A277
+SHA1: 32201028FD7DB8AFC213465EF4AF8F8EC632D19E
+SHA256: 9582A308EAABB393134CA1F70CD9A63E2248BEB9B85397A276A8EA0E7BE74CAC
+Section: Tweaks
+Description: Remove Icloud 
+Author: Develop <<email@gmail.com>>
+Name: testiaptow
